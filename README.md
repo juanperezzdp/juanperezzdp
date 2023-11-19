@@ -6,3 +6,5 @@ Find me around the web 🌎:
 Learning in public on Twitch or monica.dev 📹 ✍🏾
 Tinkering with interactions on Codepen 🏓
 Sharing updates on LinkedIn 💼
+
+	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
