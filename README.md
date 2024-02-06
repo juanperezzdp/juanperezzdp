@@ -1,10 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Pérez
+<style>
+    .socials{dispaly: flex;}
+</style>
+
+
+
+# # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Pérez
 
 
 
 ### Socials
 
-<div align="left"> 
+<div class="socials"> 
 <a href="https://www.github.com/juanperezzdp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="100" height="32" />
 </picture> </a> 
 
@@ -31,6 +37,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanperezzdp&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40" alt="juanperezzdp" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanperezzdp&show_icons=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </div>
-
 
 
