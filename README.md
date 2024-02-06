@@ -1,6 +1,6 @@
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/juanperezzdp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/5c7a9073c758b76341e97ba3018cdc7c498adb460b4a8a81a6dc023076fb2b72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<p align="left"> <a href="https://www.github.com/juanperezzdp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/5c7a9073c758b76341e97ba3018cdc7c498adb460b4a8a81a6dc023076fb2b72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="72" height="32" />
 
 
 
