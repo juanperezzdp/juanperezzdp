@@ -6,6 +6,10 @@ Web developer with javascript
 * 🖥️  See my portfolio at [juan-perez.netlify.app](http://juan-perez.netlify.app)
 * ✉️  You can contact me at [juanperezzdp@gamil.com](mailto:juanperezzdp@gamil.com)
 
+JavaScript Frontend Developer with experience in ReactJS.
+
+I am ready to apply my skills and passion with the purpose of driving the mission of a project. My positive attitude, along with my willingness and motivation to acquire new technologies, set me apart. I have worked on projects using technologies such as JavaScript, React, Next.js, Redux, Node.js, MongoDB, Firebase, and Supabase. My perseverance and passion drive me to complete tasks to their culmination. These qualities have allowed me to develop problem-solving skills during web application development.
+
 ### Skills
 
 <p align="left">
